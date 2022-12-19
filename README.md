@@ -16,9 +16,7 @@
 
 ## At the very beginning, run the command:
 
-...
-aws configure
-...
+`aws configure`
 
 and enter your credentials in order to connect to aws.
 
