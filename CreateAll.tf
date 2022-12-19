@@ -21,11 +21,11 @@ module "ApplicationServer" {
 
 
 
-resource "aws_s3_bucket" "mybucket" {
-  bucket = "mybucket"
+resource "aws_s3_bucket" "awsfinaltaskbucket11" {
+  bucket = "awsfinaltaskbucket11"
 
   tags = {
-    Name        = "mybucket"
+    Name        = "awsfinaltaskbucket11"
   }
 }
 
